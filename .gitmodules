@@ -1,0 +1,6 @@
+[submodule "infinity-api"]
+	path = infinity-api
+	url = https://github.com/InfinityPowered/InfinityAPI.git
+[submodule "infinity-server"]
+	path = infinity-server
+	url = https://github.com/InfinityPowered/InfinityServer.git
